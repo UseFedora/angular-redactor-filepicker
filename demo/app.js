@@ -12,6 +12,7 @@ angular.module('app')
 
       $scope.redactorOptions = {
 
+
       };
 
       $scope.changeContent = function () {

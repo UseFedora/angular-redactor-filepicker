@@ -9,7 +9,14 @@
      *
      */
 
-    var redactorOptions = {};
+    var redactorOptions = {
+        plugins: ['fullscreen', 'alignment', 'inlinestyle', 'source', 'filepicker', 'textdirection'],
+        formatting: ['p', 'blockquote'],
+        buttons: ['format', 'bold', 'italic', 'deleted', 'lists', 'link', 'horizontalrule'],
+        imageResizable: true,
+        imagePosition: true,
+
+    };
 
     angular.module('angular-redactor', [])
         .constant('redactorOptions', redactorOptions)
