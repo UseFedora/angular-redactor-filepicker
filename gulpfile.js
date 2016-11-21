@@ -11,6 +11,7 @@ gulp.task('js', function() {
     'demo/redactor/inlinestyle.js',
     'demo/redactor/source.js',
     'demo/redactor/fullscreen.js',
+    'demo/redactor/textdirection.js',
     'angular-redactor-2.js'
   ]
   stream = gulp.src(libraryPaths)

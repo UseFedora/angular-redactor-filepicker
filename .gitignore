@@ -3,7 +3,8 @@ bower_components
 .DS_Store
 
 
-demo/redactor
-demo/redactor9
+demo/redactor/filepicker_api_key.js
+demo/redactor/redactor.min.js
+demo/redactor/redactor.min.css
 test
 node_modules
