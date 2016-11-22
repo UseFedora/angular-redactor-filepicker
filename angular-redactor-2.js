@@ -11,7 +11,7 @@
 
     var redactorOptions = {
         plugins: ['fullscreen', 'alignment', 'inlinestyle', 'source', 'filepicker', 'textdirection'],
-        formatting: ['p', 'blockquote'],
+        formatting: ['p', 'blockquote', 'h1', 'h2', 'h3'],
         buttons: ['format', 'bold', 'italic', 'deleted', 'lists', 'link', 'horizontalrule'],
         imageResizable: true,
         imagePosition: true,
