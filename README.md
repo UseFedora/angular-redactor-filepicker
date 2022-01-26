@@ -1,3 +1,5 @@
+## ARCHIVED: most recent is is https://github.com/UseFedora/angular-redactor-filepicker-bundle
+
 [![Stories in Ready](https://badge.waffle.io/TylerGarlick/angular-redactor.png?label=ready&title=Ready)](https://waffle.io/TylerGarlick/angular-redactor)
 angular-redactor
 ================
